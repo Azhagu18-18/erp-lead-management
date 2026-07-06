@@ -21,7 +21,7 @@ function Navbar() {
 
 const appConfig = {
   appName: "ERP Lead Management",
-  company: "Nplus Technologies",
+  company: "Developed by Azhagu Malai Krishnan",
 };
 
   const navigate = useNavigate();
